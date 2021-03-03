@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message
-from AlexaSongBot.sql.blacklist_sql import check_is_black_list
+from Sherlock.sql.blacklist_sql import check_is_black_list
 
 
 async def ignore_blacklisted_users(filter, client: Client, message: Message):
