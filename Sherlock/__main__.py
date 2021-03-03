@@ -1,13 +1,13 @@
 # © @Mr_Dark_Prince
 from config import OWNER_ID
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
-from AlexaSongBot.modules import *
+from Sherlock.modules import *
 from pyrogram import idle, filters
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.types import InlineKeyboardButton
-from AlexaSongBot import app, LOGGER
-from AlexaSongBot.Sherlock import ignore_blacklisted_users
-from AlexaSongBot.sql.chat_sql import add_chat_to_db
+from Sherlock import app, LOGGER
+from Sherlock.Sherlock import ignore_blacklisted_users
+from Sherlock.sql.chat_sql import add_chat_to_db
 
 start_text = """
 Hey [{}](tg://user?id={}),
