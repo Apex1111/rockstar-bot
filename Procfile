@@ -1,1 +1,1 @@
-worker: python3 -m AlexaSongBot
+worker: python3 -m Sherlock
