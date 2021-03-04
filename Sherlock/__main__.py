@@ -36,7 +36,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="💫 Add alexa in your group 💫", url="http://t.me/X_alexaBot?startgroup=true"
+                        text="💫 Add alexa in your group 💫", url="http://t.me/Xalexa_robot?startgroup=true"
                     )
                 ]
             ]
