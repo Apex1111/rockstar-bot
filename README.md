@@ -3,8 +3,8 @@
 </p>
 
 # Alexa Song Bot
-![logo](https://telegra.ph/file/92286679d79692b26a2a7.jpg)
-Reach me on Telegram [ALEXA 📻](https://t.me/alexasongbot)
+![logo](https://telegra.ph/file/dbed7ae52ae9e91261abc.jpg)
+Reach me on Telegram 
 
 ## How To Host
 The easiest way to deploy this Song Bot
